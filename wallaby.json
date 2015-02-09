@@ -1,0 +1,9 @@
+{
+  "files": [
+    "src/**/*.js"
+  ],
+  "tests": [
+    "test/**/*.js"
+  ],
+  "testFramework": "jasmine@2.1.3"
+}
