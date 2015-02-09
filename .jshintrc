@@ -1,0 +1,13 @@
+{
+  "browser": true,
+  "indent": 2,
+  "quotmark": "single",
+  "globals": {
+    "describe": false,
+    "it": false,
+    "spyOn": false,
+    "beforeEach": false,
+    "afterEach": false,
+    "expect": false
+  }
+}
