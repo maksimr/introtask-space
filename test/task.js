@@ -1,3 +1,5 @@
-/**
- * Created by maksimrv on 10.02.15.
- */
+describe('task', function () {
+  it('should define Vessel', function () {
+    expect(Vessel).toBeDefined();
+  });
+});
